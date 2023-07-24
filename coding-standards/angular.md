@@ -33,12 +33,12 @@ ESLint, Prettier
 
 In root directory of project:
 
-1. npx install-peerdeps --dev eslint-config-airbnb-base
-2. npm install eslint-config-airbnb-typescript @typescript-eslint/eslint-plugin@^5.13.0 @typescript-eslint/parser@^5.0.0 --save-dev
-3. npm init @eslint/config
-4. npm install eslint-plugin-import --save-dev
-5. npm i prettier eslint-config-prettier eslint-plugin-prettier --save-dev
-6. ng add @angular-eslint/schematics
+1. `npx install-peerdeps --dev eslint-config-airbnb-base`
+2. `npm install eslint-config-airbnb-typescript @typescript-eslint/eslint-plugin@^5.13.0 @typescript-eslint/parser@^5.0.0 --save-dev`
+3. `npm init @eslint/config`
+4. `npm install eslint-plugin-import --save-dev`
+5. `npm i prettier eslint-config-prettier eslint-plugin-prettier --save-dev`
+6. `ng add @angular-eslint/schematics`
 
 ### **Files to be added in root directory**
 
